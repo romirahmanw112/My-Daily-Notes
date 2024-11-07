@@ -7,4 +7,4 @@
 ![gambar](dokumentasi/ss1.png)
 
 # UI/UX
-![gambar](dokumentasi/ss3.jpg)
+![gambar](dokumentasi/ss3.png)
